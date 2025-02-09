@@ -1,3 +1,7 @@
+// Description: This program demonstrates the CreditCard class by creating a CreditCard object and performing various operations on it.
+// Author: Nicole Sparkes
+// Feburary 9, 2025
+
 public class CreditCardDemo {
     public static void main(String[] args) {
         final Money LIMIT = new Money(1000);
@@ -5,7 +9,7 @@ public class CreditCardDemo {
         final Money SECOND_AMOUNT = new Money(10.02);
         final Money THIRD_AMOUNT = new Money(25);
         final Money FOURTH_AMOUNT = new Money(990);
-        
+
         Person owner = new Person("John", "Doe", new Address("123 Main St", "Toronto", "ON", "A1B 2C3"));
 
         CreditCard card = new CreditCard(owner, LIMIT);

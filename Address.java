@@ -1,3 +1,7 @@
+// Description: This class is used to store the address of a person.
+// Author: Nicole Sparkes
+// Feburary 9, 2025
+
 public class Address {
     private String street;
     private String city;

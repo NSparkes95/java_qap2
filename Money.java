@@ -1,3 +1,7 @@
+// Description: This class is used to create a Money object that can be used to add, subtract, and compare money values.
+// Author: Nicole Sparkes
+// Feburary 9, 2025
+
 public class Money {
     private double amount;
 

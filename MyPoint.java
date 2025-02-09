@@ -1,4 +1,4 @@
-// Description:
+// Description: This class represents a point in 2D space with x and y coordinates.
 // Author: Nicole Sparkes
 // Date: Febuary 7, 2025
 

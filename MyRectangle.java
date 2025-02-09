@@ -1,3 +1,7 @@
+// Description: This class creates a rectangle object with a top left and bottom right point.
+// Author: Nicole Sparkes
+// Feburary 9, 2025
+
 public class MyRectangle {
     private MyPoint topLeft;
     private MyPoint bottomRight;
